@@ -1,0 +1,26 @@
+/* body{
+    background-color: blueviolet;
+} */
+
+.column{
+    background-color: white;
+}
+
+.img-thumbnail{
+    margin: 1%;
+    width: 45%;
+    float: left;
+    padding: initial;
+
+}
+
+.img-summary{
+    width: 25%;
+    float: left;
+    padding: initial;
+}
+
+.img-detail{
+    width: 100%;
+    padding: initial;
+}
